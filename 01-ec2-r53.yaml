@@ -8,10 +8,10 @@
     domain_name: "saidaws86s.fun"
     # we can pass instances through command line using -e
     instances: 
-    # - mongodb
-    # - redis
-    # - mysql
-    # - rabbitmq
+    - mongodb
+    - redis
+    - mysql
+    - rabbitmq
     # - catalogue
 
   tasks:
