@@ -7,8 +7,8 @@
     zone_id: "Z0506429205Z4ZA4IXHNC" # replace with your ID
     domain_name: "saidaws86s.fun"
     # we can pass instances through command line using -e
-    instances: 
-    - mongodb
+    # instances: 
+    # - mongodb
     # - redis
     # - mysql
     # - rabbitmq
